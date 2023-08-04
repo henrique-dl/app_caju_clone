@@ -10,6 +10,7 @@ const theme: ThemeEditProps = {
     lighter: '#E090DF',
     lightOrange: '#FF946DFF',
     grey: '#F1F0F0FF',
+    darkGrey: '#A4A4A4FF',
     blue: '#0000FF',
     lightYellow: '#FFDC83FF',
     lightGreen: '#92FF90FF',

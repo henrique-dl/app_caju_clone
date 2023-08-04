@@ -49,4 +49,6 @@ const icons = {
   Hamburger: require('phosphor-react-native/src/icons/Hamburger').default,
   CaretUp: require('phosphor-react-native/src/icons/CaretUp').default,
   CaretDown: require('phosphor-react-native/src/icons/CaretDown').default,
+  Square: require('phosphor-react-native/src/icons/Square').default,
+  CaretRight: require('phosphor-react-native/src/icons/CaretRight').default,
 };
