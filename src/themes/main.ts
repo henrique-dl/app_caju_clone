@@ -3,11 +3,17 @@ import { ThemeEditProps } from '@react-bulk/core';
 const theme: ThemeEditProps = {
   colors: {
     primary: {
-      light: '#8800C7',
-      lighter: '#E090DF',
       main: '#e80537',
     },
-    secondary: '#ff7500',
+    secondary: '#FFBC6DFF',
+    lightPurple: '#DDA5FFFF',
+    lighter: '#E090DF',
+    lightOrange: '#FF946DFF',
+    grey: '#F1F0F0FF',
+    blue: '#0000FF',
+    lightYellow: '#FFDC83FF',
+    lightGreen: '#92FF90FF',
+    black: '#000000',
   },
 
   components: {
